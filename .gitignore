@@ -1,2 +1,2 @@
 # Gitignore
-./data
+**/data
