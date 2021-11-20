@@ -1,3 +1,5 @@
 # Gitignore
 **/data
 **/__pycache__
+
+**/todo.md
